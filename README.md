@@ -12,4 +12,4 @@ Send data to printer, to another PC and receive data from other PC using Paralle
 
 ## Scheme
 
-[schema.png]
+![alt tag](https://github.com/cmgustavo/paralelo/raw/master/paralelo.gif)
